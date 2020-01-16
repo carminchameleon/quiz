@@ -1,0 +1,32 @@
+
+body{
+  padding : 0;
+  color: 10px;
+  font-family: 'Courier Prime', monospace;
+  margin: 1.3rem;
+  }
+
+.title{
+  text-align: center;
+}
+  button {
+    font-size : 1rem;
+    font-family: 'Courier Prime', monospace;
+    margin: 0.4rem;
+  }
+
+body-red{
+  background-color: red;
+}
+
+body-blue{
+  background-color: blue;
+}
+
+a{
+  text-decoration: none;
+}
+
+h2 h3{
+  text-align : left
+}
